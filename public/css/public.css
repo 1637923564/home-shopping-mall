@@ -32,7 +32,6 @@ a {
   text-decoration: none;
   outline: none;
   color: #262626;
-  blr: expression(this.onFocus=this.blur());
 }
 
 /*将超链接的下划线去掉以及在ie6中点击出现的虚线框去掉*/
